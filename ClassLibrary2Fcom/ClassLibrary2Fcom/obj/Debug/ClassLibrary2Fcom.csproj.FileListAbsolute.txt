@@ -1,0 +1,6 @@
+F:\AssignemntASE\ClassLibrary2Fcom\ClassLibrary2Fcom\bin\Debug\ClassLibrary2Fcom.dll
+F:\AssignemntASE\ClassLibrary2Fcom\ClassLibrary2Fcom\bin\Debug\ClassLibrary2Fcom.pdb
+F:\AssignemntASE\ClassLibrary2Fcom\ClassLibrary2Fcom\obj\Debug\ClassLibrary2Fcom.csproj.AssemblyReference.cache
+F:\AssignemntASE\ClassLibrary2Fcom\ClassLibrary2Fcom\obj\Debug\ClassLibrary2Fcom.csproj.CoreCompileInputs.cache
+F:\AssignemntASE\ClassLibrary2Fcom\ClassLibrary2Fcom\obj\Debug\ClassLibrary2Fcom.dll
+F:\AssignemntASE\ClassLibrary2Fcom\ClassLibrary2Fcom\obj\Debug\ClassLibrary2Fcom.pdb

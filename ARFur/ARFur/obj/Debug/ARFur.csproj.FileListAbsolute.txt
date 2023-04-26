@@ -1,0 +1,16 @@
+F:\AssignemntASE\ARFur\ARFur\bin\Debug\ARFur.exe.config
+F:\AssignemntASE\ARFur\ARFur\bin\Debug\ARFur.exe
+F:\AssignemntASE\ARFur\ARFur\bin\Debug\ARFur.pdb
+F:\AssignemntASE\ARFur\ARFur\obj\Debug\ARFur.csproj.AssemblyReference.cache
+F:\AssignemntASE\ARFur\ARFur\obj\Debug\ARFur.csproj.SuggestedBindingRedirects.cache
+F:\AssignemntASE\ARFur\ARFur\obj\Debug\ARFur.Form1.resources
+F:\AssignemntASE\ARFur\ARFur\obj\Debug\ARFur.Properties.Resources.resources
+F:\AssignemntASE\ARFur\ARFur\obj\Debug\ARFur.csproj.GenerateResource.cache
+F:\AssignemntASE\ARFur\ARFur\obj\Debug\ARFur.csproj.CoreCompileInputs.cache
+F:\AssignemntASE\ARFur\ARFur\obj\Debug\ARFur.exe
+F:\AssignemntASE\ARFur\ARFur\obj\Debug\ARFur.pdb
+F:\AssignemntASE\ARFur\ARFur\bin\Debug\ClassLibrary1.dll
+F:\AssignemntASE\ARFur\ARFur\bin\Debug\ClassLibrary1.pdb
+F:\AssignemntASE\ARFur\ARFur\obj\Debug\ARFur.csproj.CopyComplete
+F:\AssignemntASE\ARFur\ARFur\bin\Debug\ClassLibrary2Fcom.dll
+F:\AssignemntASE\ARFur\ARFur\bin\Debug\ClassLibrary2Fcom.pdb
